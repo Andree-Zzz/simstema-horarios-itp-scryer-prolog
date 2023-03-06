@@ -9,9 +9,9 @@ Ejecucion simple:
 
 1. Instalar Rust.
 
-2. Instalar Scryer-Prolog Desde El Repositorio De Github.
+2. Instalar Scryer-Prolog desde el Repositorio de Github.
 
-3. Entrar Al Directorio De Scryer-Prolog.
+3. Entrar al Directorio de scryer-prolog: ´cd scryer-prolog´.
 
 ### Ejecutar en consola:
 cd scryer-prolog
