@@ -11,12 +11,10 @@ Ejecucion simple:
 
 2. Instalar Scryer-Prolog desde el Repositorio de Github.
 
-3. Entrar al Directorio de scryer-prolog: ´cd scryer-prolog´.
+3. Entrar al Directorio de scryer-prolog: `cd scryer-prolog`
 
 ### Ejecutar en consola:
-cd scryer-prolog
-
-cargo run
+`cargo run`
 
 ### Dentro de scryer-prolog:
 Para ejecutar el codigo se bebe especificar su ruta en la consulta:
